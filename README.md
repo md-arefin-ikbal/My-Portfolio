@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">✨ Creating Designs since 2024<br>📚 I'm currently learning ...<br>🎯 Goals: To Become a Mern Stack Developer.</p>
+<p align="left">✨ Creating Designs since 2024<br>📚 I'm currently learning ...<br>🎯 Goals: To Become a Full Stack Developer.</p>
 
 ###
 
